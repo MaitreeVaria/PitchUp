@@ -25,7 +25,7 @@ PitchUp is an innovative recruitment platform that revolutionizes the hiring pro
 
 1. Clone the repository:
    ```
-   git clone https://github.com/urochurro/PitchUp.git
+   git clone https://github.com/MaitreeVaria/PitchUp.git
    ```
 
 2. Install dependencies:
