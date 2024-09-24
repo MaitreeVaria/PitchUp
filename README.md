@@ -21,6 +21,9 @@ PitchUp is an innovative recruitment platform that revolutionizes the hiring pro
 - **Video Storage**: Google Cloud Storage
 - **Machine Learning**: TensorFlow, Keras, PyTorch
 
+## System Architecture
+
+
 ## Getting Started
 
 1. Clone the repository:
