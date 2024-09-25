@@ -2,6 +2,8 @@
 
 PitchUp is an innovative recruitment platform that revolutionizes the hiring process by connecting talent with opportunities through dynamic video pitches and intuitive matchmaking algorithms.
 
+Check out a walkthrough of the app on YouTube: [App Demo](https://www.youtube.com/watch?v=78MGDB0GqlE)
+
 ## Features
 
 - **Video Pitches**: Candidates can showcase their skills and personality through short, engaging video introductions.
@@ -22,6 +24,7 @@ PitchUp is an innovative recruitment platform that revolutionizes the hiring pro
 - **Machine Learning**: TensorFlow, Keras, PyTorch
 
 ## System Architecture
+![System Architecture](https://github.com/MaitreeVaria/PitchUp/Images/system_architecture.png?raw=true)
 
 
 ## Getting Started
