@@ -24,7 +24,7 @@ Check out a walkthrough of the app on YouTube: [App Demo](https://www.youtube.co
 - **Machine Learning**: TensorFlow, Keras, PyTorch
 
 ## System Architecture
-![System Architecture](https://github.com/MaitreeVaria/PitchUp/Images/system_architecture.png?raw=true)
+![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/4acfda773c2112ffdd7e8875faac0da3a760d96d/Images/system_architecture.png?raw=true)
 
 
 ## Getting Started
