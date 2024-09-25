@@ -24,7 +24,7 @@ Check out a walkthrough of the app on YouTube: [App Demo](https://www.youtube.co
 - **Machine Learning**: TensorFlow, Keras, PyTorch
 
 ## System Architecture
-![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/4acfda773c2112ffdd7e8875faac0da3a760d96d/Images/system_architecture.png?raw=true)
+![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/4acfda773c2112ffdd7e8875faac0da3a760d96d/Images/system_architecture.png)
 
 
 ## Getting Started
@@ -46,6 +46,8 @@ Check out a walkthrough of the app on YouTube: [App Demo](https://www.youtube.co
    ```
    npm start
    ```
+## Screen Flow
+![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/6fa09a2085335991c1779ae91e63c0bd550b5526/Images/screen_flow.png)
 
 ## Project Structure
 
@@ -55,12 +57,6 @@ The project consists of several key components:
 - **Backend**: FastAPI server handling API requests, database interactions, and matchmaking algorithms.
 - **Databases**: MongoDB for user authentication and Neo4j for storing candidate profiles and relationships.
 - **Machine Learning**: Collaborative filtering algorithms for personalized recommendations.
-
-
-## License
-
-This project is licensed under the MIT License (or specify the appropriate license).
-
 
 ---
 
