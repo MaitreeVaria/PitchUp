@@ -24,7 +24,7 @@ Check out a walkthrough of the app on YouTube: [App Demo](https://www.youtube.co
 - **Machine Learning**: TensorFlow, Keras, PyTorch
 
 ## System Architecture
-![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/4acfda773c2112ffdd7e8875faac0da3a760d96d/Images/system_architecture.png)
+![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/4acfda773c2112ffdd7e8875faac0da3a760d96d/Images/system_architecture.png?raw=true)
 
 
 ## Getting Started
@@ -47,7 +47,7 @@ Check out a walkthrough of the app on YouTube: [App Demo](https://www.youtube.co
    npm start
    ```
 ## Screen Flow
-![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/6fa09a2085335991c1779ae91e63c0bd550b5526/Images/screen_flow.png)
+![System Architecture](https://github.com/MaitreeVaria/PitchUp/blob/6fa09a2085335991c1779ae91e63c0bd550b5526/Images/screen_flow.png?raw=true)
 
 ## Project Structure
 
